@@ -1,1 +1,2 @@
-Atuação: Analista/frontend - Empresa: Acesso Digital
+Atuação: Analista/frontend  
+Empresa: Acesso Digital
