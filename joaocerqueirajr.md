@@ -1,3 +1,2 @@
-Área de Atuação: Desenvolvimento de Software
 
-Empresa: Microsoft
+Área de Atuação: Desenvolvimento de Software - Empresa: Microsoft
