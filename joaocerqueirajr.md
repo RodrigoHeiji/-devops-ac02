@@ -1,3 +1,2 @@
-Atuação: Desejo atuar na área de Desenvolvimento de Software
-
+Área de Atuação:Desenvolvimento de Software
 Empresa: Microsoft
